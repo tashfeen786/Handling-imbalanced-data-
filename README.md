@@ -1,30 +1,30 @@
 # **Handling imbalanced data**
 
-## 📊 Handling Imbalanced Data in Customer Churn Prediction using ANN
+## Handling Imbalanced Data in Customer Churn Prediction using ANN
 
 This project tackles the class imbalance problem in customer churn datasets by applying four different data balancing techniques and training an Artificial Neural Network (ANN) on each. The project is implemented in Google Colab, making it easy to run without any setup.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To build and compare the performance of ANN models trained on:
 
-- 🔁 Random Oversampling  
-- 🔻 Random Undersampling  
-- 🔄 SMOTE (Synthetic Minority Over-sampling Technique)  
-- 🧠 Ensemble Method
+- Random Oversampling  
+-  Random Undersampling  
+- SMOTE (Synthetic Minority Over-sampling Technique)  
+- Ensemble Method
 
 ---
 
-## 🧠 Model Used
+##  Model Used
 
 **Artificial Neural Network (ANN)**  
 Trained using each data balancing method to evaluate its effect on churn prediction performance.
 
 ---
 
-## ⚙️ Technologies & Libraries
+##  Technologies & Libraries
 
 - Python (Google Colab)  
 - Pandas, NumPy  
@@ -35,18 +35,18 @@ Trained using each data balancing method to evaluate its effect on churn predict
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 The dataset includes:
 
-- 👤 Customer demographics  
-- 📶 Service usage  
-- 💳 Contract/billing details  
-- 🎯 Target variable: `Churn (Yes/No)`
+-  Customer demographics  
+-  Service usage  
+-  Contract/billing details  
+-  Target variable: `Churn (Yes/No)`
 
 ---
 
-## 🔄 Data Handling Techniques
+##  Data Handling Techniques
 
 | Technique              | Description                                             |
 |------------------------|---------------------------------------------------------|
@@ -57,7 +57,7 @@ The dataset includes:
 
 ---
 
-## 🔬 Project Workflow
+##  Project Workflow
 
 - Data Exploration & Preprocessing  
 - Apply 4 Balancing Techniques  
@@ -69,7 +69,7 @@ The dataset includes:
 
 ---
 
-## 📈 Results & Insights
+##  Results & Insights
 
 - Imbalanced data resulted in biased predictions favoring non-churners.  
 - Balancing techniques, especially SMOTE and Ensemble, improved the ANN’s ability to predict churners.  
@@ -77,7 +77,7 @@ The dataset includes:
 
 ---
 
-## 🚀 Run in Google Colab
+##  Run in Google Colab
 
 Click the button below to run this notebook in Google Colab:
 
@@ -85,16 +85,16 @@ Click the button below to run this notebook in Google Colab:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
-📦Handling-imbalanced-data-
-┣ 📜 Handling_imbalanced_data_in_customer_churn_prediction.ipynb
-┗ 📄 README.md
+Handling-imbalanced-data-
+┣  Handling_imbalanced_data_in_customer_churn_prediction.ipynb
+┗  README.md
 
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
 **Tashfeen Aziz**  
 Data Analyst | Python Developer | ML/DL Enthusiast  
